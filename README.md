@@ -8,13 +8,20 @@ To design an interactive and visually insightful Super Store Sales Dashboard usi
 This project is created using the Sample Superstore dataset, widely used for business analytics.
 The dashboard provides a comprehensive overview of:
 
--Total Sales?
+Total Sales?
+
 Total Profit?
+
 Profit Ratio?
+
 Sales by Category and Sub-Category.
+
 Sales by Region and State.
+
 Customer Segment Performance.
+
 Monthly Sales Trend.
+
 Top 10 Products by Sales / Profit.
 
 The dashboard is fully interactive with features such as slicers and dynamic charts.
