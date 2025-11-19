@@ -7,6 +7,7 @@ To design an interactive and visually insightful Super Store Sales Dashboard usi
 ## 📁 Questions (KPIs)
 This project is created using the Sample Superstore dataset, widely used for business analytics.
 The dashboard provides a comprehensive overview of:
+
 -Total Sales?
 Total Profit?
 Profit Ratio?
