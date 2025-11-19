@@ -43,20 +43,6 @@ Conditional Formatting
 Dashboard Design Techniques
 
 Data Analysis
-## 📈 Key Insights
-
-The Technology category generates the highest profit.
-
-Some sub-categories like Tables show high sales but low profit (negative profit).
-
-West Region performs strongest in sales.
-
-End-of-year months show increased sales due to festival season.
-
-The dashboard is fully interactive with features such as slicers and dynamic charts.
-
-## 📊 Dashboard
-![Super Store Dashboard 004636](https://github.com/user-attachments/assets/e977654d-a904-4bc0-b3e6-dbbf0b423b0a)
 
 ## 📈 Project Insights (Key Findings)
 
@@ -104,6 +90,9 @@ Standard Class shipping dominates most orders.
 
 Faster shipping modes have less demand but contribute positively to timely order fulfillment.
 
+## 📊 Dashboard
+![Super Store Dashboard 004636](https://github.com/user-attachments/assets/e977654d-a904-4bc0-b3e6-dbbf0b423b0a)
+
 ## 🏁 Overall Summary
 
 This project demonstrates the power of Excel in performing complete data analysis, interactive dashboard creation, and insight generation.
@@ -121,6 +110,9 @@ Tracking monthly performance and forecasting trends
 
 It provides a strong foundation for transitioning the analysis into Power BI, SQL, or advanced analytics models in the future.
 
+## ✅ Final Conclusion
+
+The Super Store Sales Dashboard provides a clear and data-driven understanding of overall business performance across sales, profit, categories, regions, and customer segments. By transforming raw retail data into meaningful insights, the dashboard enables stakeholders to quickly identify growth opportunities, monitor performance trends, and make informed strategic decisions.
 
 
 
