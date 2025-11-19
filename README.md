@@ -23,5 +23,28 @@ Customer Segment Performance.
 Monthly Sales Trend.
 
 Top 10 Products by Sales / Profit.
+## Dashboard Interactions
+<a href="https://github.com/Naveenkarthik23/Super-Store-Dashboard/blob/main/Super%20Store%20Dashboard%20004636.jpg">View Dashboard</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 The dashboard is fully interactive with features such as slicers and dynamic charts.
