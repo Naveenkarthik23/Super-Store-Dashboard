@@ -51,6 +51,8 @@ Some sub-categories like Tables show high sales but low profit (negative profit)
 West Region performs strongest in sales.
 
 End-of-year months show increased sales due to festival season.
+## Dashboard
+![Super Store Dashboard 004636](https://github.com/user-attachments/assets/e977654d-a904-4bc0-b3e6-dbbf0b423b0a)
 
 
 
